@@ -1,5 +1,5 @@
 # Aircraft-war
-Aircraft war use Python
+飞机大战 Pygame版
 
 游戏飞机大战
 
